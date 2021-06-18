@@ -6,3 +6,6 @@
 
 # Exclude settings folder
 *.settings 
+
+# Exclude .tmh
+*.tmh
